@@ -1,6 +1,7 @@
 # USC Branch (`control-systems/projects/`)
 
 This branch contains my own independently written project solutions and code for courses I have taken at the USC Viterbi School of Engineering.  
+
 All material in this branch is included solely for personal record-keeping, professional portfolio documentation, and reproducibility of my own work.
 
 ---
